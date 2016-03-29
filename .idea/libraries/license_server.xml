@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="license-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../license-server/lib/license-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../license-server/lib/license-server.jar!/" />
+    </SOURCES>
+  </library>
+</component>
